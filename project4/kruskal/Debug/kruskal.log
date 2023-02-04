@@ -1,0 +1,4 @@
+﻿  kruskal.cpp
+D:\数据结构重修\第七次作业\kruskal\kruskal.cpp(71,23): warning C4101: “v”: 未引用的局部变量
+D:\数据结构重修\第七次作业\kruskal\kruskal.cpp(103,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  kruskal.vcxproj -> D:\数据结构重修\第七次作业\kruskal\Debug\kruskal.exe

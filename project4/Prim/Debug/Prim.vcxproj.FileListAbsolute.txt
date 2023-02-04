@@ -1,0 +1,4 @@
+D:\数据结构重修\第七次作业\Prim\Debug\Prim.exe
+D:\数据结构重修\第七次作业\Prim\Debug\Prim.pdb
+D:\数据结构重修\第七次作业\Dijkstra\Debug\Prim.pdb
+D:\数据结构重修\第七次作业\kruskal\Debug\Prim.pdb

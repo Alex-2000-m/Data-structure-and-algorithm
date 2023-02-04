@@ -1,0 +1,2 @@
+buildTree2：Use the tree's in-order convenience and post-order traversal results to construct a tree; calculate the height and number of leaf nodes of the binary tree
+HuffmanTree：Construct a Huffman tree

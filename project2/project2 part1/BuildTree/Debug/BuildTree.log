@@ -1,0 +1,3 @@
+﻿  BuildTree.cpp
+D:\数据结构重修\第五次作业（一）\BuildTree\BuildTree.cpp(76,10): warning C4101: “result”: 未引用的局部变量
+  BuildTree.vcxproj -> D:\数据结构重修\第五次作业（二）\NameTree\Debug\BuildTree.exe

@@ -1,0 +1,3 @@
+﻿  Dijkstra.cpp
+D:\数据结构重修\第七次作业\Dijkstra\Dijkstra.cpp(123,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Dijkstra.vcxproj -> D:\数据结构重修\第七次作业\Dijkstra\Debug\Dijkstra.exe

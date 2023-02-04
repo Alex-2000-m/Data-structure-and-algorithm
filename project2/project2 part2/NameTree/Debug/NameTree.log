@@ -1,0 +1,6 @@
+﻿  NameTree.cpp
+D:\数据结构重修\第五次作业（二）\NameTree\NameTree.cpp(144,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\数据结构重修\第五次作业（二）\NameTree\NameTree.cpp(116): warning C4715: “checkName”: 不是所有的控件路径都返回值
+D:\数据结构重修\第五次作业（二）\NameTree\NameTree.cpp(140): warning C4715: “preorderPrint”: 不是所有的控件路径都返回值
+D:\数据结构重修\第五次作业（二）\NameTree\NameTree.cpp(56): warning C4715: “buildTree”: 不是所有的控件路径都返回值
+  NameTree.vcxproj -> D:\数据结构重修\第五次作业（二）\NameTree\Debug\NameTree.exe

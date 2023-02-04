@@ -1,0 +1,2 @@
+D:\数据结构重修\第七次作业\kruskal\Debug\kruskal.exe
+D:\数据结构重修\第七次作业\kruskal\Debug\kruskal.pdb

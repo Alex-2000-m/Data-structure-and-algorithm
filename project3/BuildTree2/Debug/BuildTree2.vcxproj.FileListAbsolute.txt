@@ -1,0 +1,4 @@
+D:\数据结构重修\第六次作业（一）\BuildTree2\Debug\BuildTree2.exe
+D:\数据结构重修\第六次作业（一）\BuildTree2\Debug\BuildTree2.pdb
+D:\数据结构重修\第六次作业\BuildTree2\Debug\BuildTree2.exe
+D:\数据结构重修\第六次作业\BuildTree2\Debug\BuildTree2.pdb
